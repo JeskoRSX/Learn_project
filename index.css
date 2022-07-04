@@ -2,23 +2,10 @@ body {
     margin: 0 50 0 50;
     max-width: 1440px;
     min-width: 1440px;
-    border: 1px solid black;
-    
-    
+    border: 1px solid black; 
     }
 
 
-    @media (orientation: portrait) {
-        .background-black-50 {
-          color: #ffffff;
-        }
-      }
-      
-      @media (orientation: landscape) {
-        .background-black-50 {
-          color: #000000;
-        }
-      }
 
 div {
 border: 1px solid black;
